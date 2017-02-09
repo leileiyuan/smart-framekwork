@@ -1,4 +1,4 @@
-package com.smart;
+package com.smart.controller;
 
 import java.io.IOException;
 import java.text.DateFormat;
