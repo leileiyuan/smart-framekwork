@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS `t_customer`;
-CREATE TABLE `t_customer` (
+DROP TABLE IF EXISTS `customer`;
+CREATE TABLE `customer` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
   `contact` varchar(255) NOT NULL,
